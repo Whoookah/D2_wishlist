@@ -1,4 +1,4 @@
-title:OoLee's whishlist (PvE & PvP)
+title:OoLee's whishlist (PvE (E) & PvP (P))
 dimwishlist:item=1769847435&perks=1482024992,106909392,3643424744,3038247973	#notes	A Distant Pull	SNIPER RIFLE	(PvE)
 dimwishlist:item=1976481399&perks=1482024992,791862061,968510818,3201496230,4129855581	#notes	A Sudden Death	SHOTGUN	(PvE)
 dimwishlist:item=1904170910&perks=1300023272,791862061,2679249093,2360754333,59871045	#notes	A Sudden Death (Season 26, Holofoil)	SHOTGUN	(PvE)
