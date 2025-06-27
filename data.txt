@@ -18,8 +18,7 @@ dimwishlist:item=4221591387&perks=3666208348,2349202967,2244851822,3708227201,87
 dimwishlist:item=4221591387&perks=3666208348,269888150,1749209109,3708227201,878237828	#notes	Abyssal Edge (double Origin Trait)	SWORD	E
 dimwishlist:item=1471212226&perks=1482024992,1483536627,1523832109,3215448563	#notes	Acasia's Dejection	TRACE RIFLE	E
 dimwishlist:item=1471212226&perks=1482024992,1483536627,1523832109,4293542123	#notes	Acasia's Dejection	TRACE RIFLE	E
-dimwishlist:item=3621336854&perks=852209214,3311977193,201365942,3824105627	#notes	Accrued Redemption	BOW	E
-dimwishlist:item=3621336854&perks=852209214,3311977193,201365942,3891536761	#notes	Accrued Redemption	BOW	E
+dimwishlist:item=3621336854&perks=852209214,3827198035,201365942,3891536761	#notes	Accrued Redemption	BOW	E
 dimwishlist:item=425681240&perks=3798852852,3301904089,2284787283,3078487919,2250679103	#notes	Acosmic (Season 25)	GRENADE LAUNCHER	E
 dimwishlist:item=3229982889&perks=1482024992,106909392,692399809,2298656195	#notes	Adamantite	AUTO RIFLE	E
 dimwishlist:item=3229982889&perks=1482024992,106909392,923806249,960997401	#notes	Adamantite	AUTO RIFLE	E
@@ -45,18 +44,18 @@ dimwishlist:item=1851777734&perks=1844523823,3796465595,3977735242,3194351027	#n
 dimwishlist:item=1851777734&perks=981914802,3796465595,1523832109,3078487919	#notes	Apex Predator (Season 21)	ROCKET LAUNCHER	E
 dimwishlist:item=1851777734&perks=981914802,3796465595,1523832109,3194351027	#notes	Apex Predator (Season 21)	ROCKET LAUNCHER	E
 dimwishlist:item=4153087276&perks=1482024992,3868766766,3643424744,557221067	#notes	Appetence	TRACE RIFLE	E
-dimwishlist:item=2723909519&perks=839105230,1087426260,1820235745,4104185692	#notes	Arc Logic	AUTO RIFLE	E
-dimwishlist:item=2723909519&perks=839105230,1087426260,2779035018,3523296417	#notes	Arc Logic	AUTO RIFLE	E
+dimwishlist:item=2723909519&perks=1482024992,1087426260,1820235745,4104185692	#notes	Arc Logic	AUTO RIFLE	E
+dimwishlist:item=2723909519&perks=1482024992,1087426260,2779035018,3523296417	#notes	Arc Logic	AUTO RIFLE	E
 dimwishlist:item=3649985571&perks=1482024992,106909392,1354429876,555281244	#notes	Arcane Embrace (Festival of the Lost 2024)	SHOTGUN	E
 dimwishlist:item=3649985571&perks=1482024992,106909392,25606670,2173046394	#notes	Arcane Embrace (Festival of the Lost 2024)	SHOTGUN	E
 dimwishlist:item=3649985571&perks=1840239774,106909392,1631667848,3708227201	#notes	Arcane Embrace (Festival of the Lost 2024)	SHOTGUN	E
-dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2978966579	#notes	Aurvandil FR6	FUSION RIFLE	E
-dimwishlist:item=1845978721&perks=839105230,2420895100,1820235745,4293542123,4264904777	#notes	Avalanche	MACHINE GUN	E
-dimwishlist:item=1845978721&perks=839105230,2420895100,3418782618,365154968,4264904777	#notes	Avalanche	MACHINE GUN	E
+dimwishlist:item=963710795&perks=1482024992,1687452232,1523832109,2978966579	#notes	Aurvandil FR6	FUSION RIFLE	E
+dimwishlist:item=1845978721&perks=1482024992,2420895100,1820235745,4293542123,4008116374	#notes	Avalanche (Season 25)	MACHINE GUN	E
+dimwishlist:item=1845978721&perks=1482024992,2420895100,3418782618,365154968,4008116374	#notes	Avalanche (Season 25)	MACHINE GUN	E
 dimwishlist:item=3867373351&perks=1482024992,1687452232,1523832109,2594592626	#notes	Axial Lacuna	FUSION RIFLE	E
 dimwishlist:item=2573900604&perks=1300023272,3177308360,1631667848,2679249093	#notes	Basso Ostinato	SHOTGUN	E
 dimwishlist:item=2573900604&perks=1300023272,3177308360,968510818,2360754333	#notes	Basso Ostinato	SHOTGUN	E
-dimwishlist:item=2099894368&perks=839105230,106909392,3700496672,3891536761	#notes	Battle Scar (Season 20)	PULSE RIFLE	E
+dimwishlist:item=2099894368&perks=1482024992,106909392,3700496672,3891536761	#notes	Battle Scar (Season 20)	PULSE RIFLE	E
 dimwishlist:item=3107853529&perks=1392496348,1087426260,1354429876,2551157718	#notes	Beloved (Season 17)	SNIPER RIFLE	E
 dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201	#notes	Bequest	SWORD	E
 dimwishlist:item=4152016199&perks=1840239774,3177308360,247725512,3038247973,4091460919	#notes	Better Devils	HAND CANNON	E
@@ -86,7 +85,7 @@ dimwishlist:item=2481881293&perks=2405638015,1687452232,1556840489,1546637391	#n
 dimwishlist:item=999767358&perks=1482024992,1687452232,1354429876,3078487919	#notes	Cataclysmic	LINEAR FUSION RIFLE	E
 dimwishlist:item=501329015&perks=1482024992,106909392,1015611457,3425386926	#notes	Chattering Bone (Season 21)	PULSE RIFLE	E
 dimwishlist:item=501329015&perks=1482024992,106909392,1015611457,3891536761	#notes	Chattering Bone (Season 21)	PULSE RIFLE	E
-dimwishlist:item=2598420927&perks=1467527085,106909392,1820235745,3891536761	#notes	Chroma Rush	AUTO RIFLE	E
+dimwishlist:item=2598420927&perks=1482024992,106909392,1820235745,3891536761	#notes	Chroma Rush (Season 25)	AUTO RIFLE	E
 dimwishlist:item=1886840007&perks=1482024992,2969185026,3300816228,2048641572	#notes	Chronophage	TRACE RIFLE	E
 dimwishlist:item=1337707096&perks=3661387068,3177308360,1168162263,3523296417	#notes	Chrysura Melo	AUTO RIFLE	E
 dimwishlist:item=2187717691&perks=1482024992,2420895100,968510818,3523296417	#notes	Circular Logic	MACHINE GUN	E
@@ -107,12 +106,9 @@ dimwishlist:item=2126178511&perks=1482024992,106909392,3828510309,2173046394	#no
 dimwishlist:item=3654744298&perks=1482024992,106909392,2048641572,4049631843	#notes	Corrective Measure (Season 26)	MACHINE GUN	E
 dimwishlist:item=3654744298&perks=1482024992,106909392,3201496230,4049631843	#notes	Corrective Measure (Season 26)	MACHINE GUN	E
 dimwishlist:item=2714022207&perks=1482024992,1687452232,2866798147,2213355989	#notes	Corsair's Wrath	LINEAR FUSION RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,1523832109,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,1523832109,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,2978966579,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,2978966579,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,3418782618,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E
-dimwishlist:item=445197843&perks=839105230,2420895100,3418782618,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
+dimwishlist:item=445197843&perks=1482024992,2420895100,1523832109,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
+dimwishlist:item=445197843&perks=1482024992,2420895100,2978966579,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
+dimwishlist:item=445197843&perks=1482024992,2420895100,3418782618,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E
 dimwishlist:item=2782325302&perks=2827049491,2349202967,1749209109,3708227201	#notes	Crown-Splitter (Season 14)	SWORD	E
 dimwishlist:item=2782325302&perks=2827049491,2349202967,1749209109,3913600130	#notes	Crown-Splitter (Season 14)	SWORD	E
 dimwishlist:item=4106757302&perks=1844523823,3796465595,1523832109,1439600632,1380061575	#notes	Crowning Duologue (Solstice 2024)	ROCKET LAUNCHER	E
@@ -164,9 +160,9 @@ dimwishlist:item=4277547616&perks=1482024992,3230963543,2010801679,2458213969	#n
 dimwishlist:item=4096943616&perks=1478423395,2822142346,3300816228,4104185692	#notes	Explosive Personality	BREACH GRENADE LAUNCHER	E
 dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,124408337	#notes	Exuviae	HAND CANNON	E
 dimwishlist:item=235827225&perks=1926090095,1087426260,247725512,124408337	#notes	Eyasluna	HAND CANNON	E
-dimwishlist:item=727781522&perks=1840239774,2680121939,1820235745,3978468247	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
-dimwishlist:item=727781522&perks=1840239774,2680121939,3643424744,1427256713	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
-dimwishlist:item=727781522&perks=839105230,2680121939,3400784728,1134488199	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
+dimwishlist:item=727781522&perks=1482024992,1687452232,3400784728,1134488199	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
+dimwishlist:item=727781522&perks=1482024992,2680121939,3643424744,1427256713	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
+dimwishlist:item=727781522&perks=1840239774,1687452232,1820235745,3978468247	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1955165503,124408337,744217850	#notes	Fair Judgment	AUTO RIFLE	E
 dimwishlist:item=4195186942&perks=1844523823,3796465595,3300816228,1439600632	#notes	Faith-Keeper	ROCKET LAUNCHER	E
 dimwishlist:item=4195186942&perks=1844523823,3796465595,3300816228,3194351027	#notes	Faith-Keeper	ROCKET LAUNCHER	E
@@ -186,20 +182,19 @@ dimwishlist:item=3197270240&perks=1300023272,791862061,3300816228,4104185692	#no
 dimwishlist:item=3184681056&perks=1300023272,791862061,1556840489,2360754333	#notes	Fractethyst	SHOTGUN	E
 dimwishlist:item=3473290087&perks=1467527085,3142289711,3300816228,2551157718	#notes	Frozen Orbit	SNIPER RIFLE	E
 dimwishlist:item=3341893443&perks=1482024992,106909392,1820235745,4104185692	#notes	Funnelweb	SMG	E
-dimwishlist:item=1183116657&perks=839105230,1483536627,968510818,1134488199,4264904777	#notes	Glacioclasm	FUSION RIFLE	E
-dimwishlist:item=1183116657&perks=839105230,1483536627,968510818,1427256713,4264904777	#notes	Glacioclasm	FUSION RIFLE	E
-dimwishlist:item=1183116657&perks=839105230,1483536627,968510818,2594592626,4264904777	#notes	Glacioclasm	FUSION RIFLE	E
-dimwishlist:item=222606050&perks=839105230,1885400500,3619207468,831391274	#notes	Glissando-47	SCOUT RIFLE	E
-dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3523296417	#notes	Gnawing Hunger	AUTO RIFLE	E
+dimwishlist:item=1183116657&perks=1482024992,1687452232,968510818,1134488199,2839173408	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E
+dimwishlist:item=1183116657&perks=1482024992,1687452232,968510818,1427256713,2839173408	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E
+dimwishlist:item=1183116657&perks=1482024992,1687452232,968510818,2594592626,2839173408	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E
+dimwishlist:item=222606050&perks=1482024992,1885400500,3619207468,831391274	#notes	Glissando-47	SCOUT RIFLE	E
+dimwishlist:item=821154603&perks=1482024992,106909392,1820235745,3523296417	#notes	Gnawing Hunger	AUTO RIFLE	E
 dimwishlist:item=1757202961&perks=2713678205,1087426260,1966281507,1782407750	#notes	Greasy Luck	GLAIVE	E
 dimwishlist:item=1757202961&perks=2713678205,679225683,3800201097,2224838837	#notes	Greasy Luck	GLAIVE	E
 dimwishlist:item=2934305134&perks=580685494,1087426260,1966281507,1782407750,398661035	#notes	Greasy Luck (Season 26)	GLAIVE	E
 dimwishlist:item=2934305134&perks=580685494,1087426260,1966281507,4293542123,398661035	#notes	Greasy Luck (Season 26)	GLAIVE	E
 dimwishlist:item=2934305134&perks=580685494,3721627275,1523832109,2224838837,398661035	#notes	Greasy Luck (Season 26)	GLAIVE	P
-dimwishlist:item=3433930495&perks=1840239774,1431678320,3523296417,2048641572	#notes	Gridskipper	PULSE RIFLE	E
-dimwishlist:item=3433930495&perks=3661387068,1431678320,3523296417,4104185692	#notes	Gridskipper	PULSE RIFLE	E
-dimwishlist:item=3433930495&perks=839105230,1885400500,776531651,2048641572	#notes	Gridskipper	PULSE RIFLE	E
-dimwishlist:item=2870169846&perks=839105230,1885400500,1168162263,3523296417	#notes	Hailing Confusion	PULSE RIFLE	E
+dimwishlist:item=3433930495&perks=1482024992,3230963543,3523296417,2048641572	#notes	Gridskipper (Season 25)	PULSE RIFLE	E
+dimwishlist:item=3433930495&perks=1482024992,3230963543,776531651,2048641572	#notes	Gridskipper (Season 25)	PULSE RIFLE	E
+dimwishlist:item=2870169846&perks=1482024992,1885400500,1168162263,3523296417	#notes	Hailing Confusion	PULSE RIFLE	E
 dimwishlist:item=3257091166&perks=1261178282,269888150,1749209109,2077819806	#notes	Half-Truths	SWORD	E
 dimwishlist:item=3998080529&perks=1482024992,106909392,3523296417,4293542123	#notes	Heliocentric QSC	SIDEARM	E
 dimwishlist:item=3998080529&perks=1482024992,3230963543,3017780555,4293542123	#notes	Heliocentric QSC	SIDEARM	E
@@ -251,7 +246,7 @@ dimwishlist:item=2972949637&perks=1844523823,3301904089,1523832109,3708227201	#n
 dimwishlist:item=2972949637&perks=1844523823,3301904089,1523832109,4104185692	#notes	Koraxis's Distress	GRENADE LAUNCHER	E
 dimwishlist:item=2972949637&perks=1844523823,3301904089,968510818,3708227201	#notes	Koraxis's Distress	GRENADE LAUNCHER	E
 dimwishlist:item=2972949637&perks=1844523823,3301904089,968510818,4104185692	#notes	Koraxis's Distress	GRENADE LAUNCHER	E
-dimwishlist:item=2852052802&perks=839105230,1087426260,1820235745,124408337	#notes	Krait	AUTO RIFLE	E
+dimwishlist:item=2852052802&perks=1482024992,1087426260,1820235745,124408337	#notes	Krait	AUTO RIFLE	E
 dimwishlist:item=1106635211&perks=3661387068,1087426260,968510818,2551157718	#notes	Last Foray	SNIPER RIFLE	E
 dimwishlist:item=1106635211&perks=3661387068,1087426260,968510818,4104185692	#notes	Last Foray	SNIPER RIFLE	E
 dimwishlist:item=4287947559&perks=1047830412,791862061,691659142,2679249093	#notes	Last Man Standing (Season 21)	SHOTGUN	E
@@ -328,14 +323,14 @@ dimwishlist:item=4228149269&perks=1482024992,3230963543,243981275,4293542123,598
 dimwishlist:item=4228149269&perks=1482024992,3230963543,3017780555,4293542123,59871045	#notes	No Survivors (Season 26)	SMG	E
 dimwishlist:item=4228149269&perks=1482024992,3230963543,3418782618,4293542123,59871045	#notes	No Survivors (Season 26)	SMG	E
 dimwishlist:item=1770490683&perks=852209214,3311977193,201365942,2173046394	#notes	Non-Denouement	BOW	E
-dimwishlist:item=2767393525&perks=839105230,1483536627,968510818,2594592626	#notes	Nox Perennial V	FUSION RIFLE	E
+dimwishlist:item=2767393525&perks=1482024992,1687452232,968510818,2594592626	#notes	Nox Perennial V	FUSION RIFLE	E
 dimwishlist:item=825495813&perks=1482024992,1087426260,1119449540,3966416502	#notes	Noxious Vetiver	SMG	E
 dimwishlist:item=825495813&perks=1482024992,1431678320,243981275,3966416502	#notes	Noxious Vetiver	SMG	E
 dimwishlist:item=859869931&perks=1840239774,106909392,3824105627,4293542123	#notes	Nullify	PULSE RIFLE	E
 dimwishlist:item=3678653083&perks=1840239774,106909392,3418782618,3523296417	#notes	Old Sterling	AUTO RIFLE	E
 dimwishlist:item=3678653083&perks=1840239774,106909392,3418782618,4104185692	#notes	Old Sterling	AUTO RIFLE	E
 dimwishlist:item=3678653083&perks=1840239774,106909392,3418782618,831391274	#notes	Old Sterling	AUTO RIFLE	E
-dimwishlist:item=147444292&perks=839105230,1087426260,1354429876,1546637391	#notes	Omniscient Eye	SNIPER RIFLE	E
+dimwishlist:item=147444292&perks=1482024992,3177308360,1354429876,1546637391	#notes	Omniscient Eye	SNIPER RIFLE	E
 dimwishlist:item=2826850739&perks=1482024992,1431678320,3523296417,3891536761,744217850	#notes	Origin Story	AUTO RIFLE	E
 dimwishlist:item=1678205741&perks=1482024992,1885400500,1168162263,2848615171	#notes	Outlast (Season 21)	PULSE RIFLE	E
 dimwishlist:item=3489657138&perks=1844523823,3796465595,3300816228,3194351027	#notes	Palmyra-B	ROCKET LAUNCHER	E
@@ -386,8 +381,8 @@ dimwishlist:item=704410186&perks=3798852852,2822142346,3987942396,1089671869,878
 dimwishlist:item=751880654&perks=1482024992,1431678320,2779035018,4049631843	#notes	Qua Furor V	MACHINE GUN	E
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,354401740	#notes	Quickfang	SWORD	E
 dimwishlist:item=4225322581&perks=1482024992,791862061,3300816228,4104185692	#notes	Ragnhild-D	SHOTGUN	E
-dimwishlist:item=2298039571&perks=580685494,1087426260,1966281507,2978966579,744217850	#notes	Rake Angle	GLAIVE	E
-dimwishlist:item=3997086838&perks=580685494,1087426260,1966281507,2978966579,1281216113	#notes	Rake Angle (Adept)	GLAIVE	E
+dimwishlist:item=2298039571&perks=580685494,2420895100,1966281507,2978966579,744217850	#notes	Rake Angle	GLAIVE	E
+dimwishlist:item=3997086838&perks=580685494,2420895100,1966281507,2978966579,1281216113	#notes	Rake Angle (Adept)	GLAIVE	E
 dimwishlist:item=3292795429&perks=839105230,1885400500,247725512,3891536761	#notes	Randy's Throwing Knife	SCOUT RIFLE	E
 dimwishlist:item=1992309064&perks=1840239774,1885400500,2048641572,3215448563	#notes	Reckless Oracle	AUTO RIFLE	E
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1820235745,4049631843	#notes	Recurrent Impact	MACHINE GUN	E
@@ -449,8 +444,7 @@ dimwishlist:item=3236112986&perks=1482024992,1885400500,247725512,3891536761	#no
 dimwishlist:item=412251536&perks=1482024992,2420895100,968510818,4049631843	#notes	Speleologist	MACHINE GUN	E
 dimwishlist:item=4019668921&perks=3661387068,106909392,1168162263,3038247973	#notes	Staccato-46	SCOUT RIFLE	E
 dimwishlist:item=4019668921&perks=3661387068,106909392,3700496672,3038247973	#notes	Staccato-46	SCOUT RIFLE	E
-dimwishlist:item=1123433952&perks=839105230,106909392,1955165503,124408337,4264904777	#notes	Stay Frosty	PULSE RIFLE	E
-dimwishlist:item=1123433952&perks=839105230,106909392,3828510309,124408337,4264904777	#notes	Stay Frosty	PULSE RIFLE	E
+dimwishlist:item=1123433952&perks=1482024992,106909392,1955165503,124408337,2839173408	#notes	Stay Frosty (Season 25)	PULSE RIFLE	E
 dimwishlist:item=2272470786&perks=1482024992,1885400500,3436462433,3592538738	#notes	Stochastic Variable	SMG	E
 dimwishlist:item=3652506829&perks=1482024992,2680121939,2284787283,4104185692	#notes	Stormchaser	LINEAR FUSION RIFLE	E
 dimwishlist:item=1447836603&perks=1482024992,3142289711,4071163871,2173046394	#notes	Subjunctive (Season 23)	SMG	E
@@ -470,8 +464,8 @@ dimwishlist:item=2595813005&perks=1482024992,3177308360,3828510309,831391274,170
 dimwishlist:item=2595813005&perks=1482024992,3177308360,3828510309,960997401,1702976605	#notes	Taraxippos	SCOUT RIFLE	E
 dimwishlist:item=2218569744&perks=1482024992,106909392,247725512,2173046394	#notes	Tarnished Mettle	SCOUT RIFLE	E
 dimwishlist:item=1366394399&perks=1482024992,106909392,3400784728,3038247973	#notes	Tears of Contrition	SCOUT RIFLE	E
-dimwishlist:item=3591141932&perks=839105230,1483536627,1523832109,2594592626	#notes	Techeun Force	FUSION RIFLE	E
-dimwishlist:item=3591141932&perks=839105230,1483536627,968510818,2594592626	#notes	Techeun Force	FUSION RIFLE	E
+dimwishlist:item=3591141932&perks=1482024992,1687452232,1523832109,2594592626	#notes	Techeun Force (Season 21)	FUSION RIFLE	E
+dimwishlist:item=3591141932&perks=1482024992,1687452232,968510818,2594592626	#notes	Techeun Force (Season 21)	FUSION RIFLE	E
 dimwishlist:item=1587953057&perks=938542991,269888150,1749209109,2396489472	#notes	Temptation's Hook	SWORD	E
 dimwishlist:item=2210806903&perks=1482024992,2420895100,1523832109,3218042543,2437618208	#notes	Terminus Horizon (Season 26, Adept)	MACHINE GUN	E
 dimwishlist:item=2210806903&perks=1482024992,2420895100,1523832109,365154968,2437618208	#notes	Terminus Horizon (Season 26, Adept)	MACHINE GUN	E
@@ -496,7 +490,7 @@ dimwishlist:item=2889501828&perks=436053704,269888150,2077819806,3650930298	#not
 dimwishlist:item=2889501828&perks=436053704,269888150,2396489472,3650930298	#notes	The Slammer	SWORD	E
 dimwishlist:item=1354727549&perks=3666208348,269888150,1749209109,3078487919,744217850	#notes	The Slammer (Adept)	SWORD	E
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298,744217850	#notes	The Slammer (Adept)	SWORD	E
-dimwishlist:item=2884596447&perks=839105230,1561002382,3418782618,3891536761	#notes	The Supremacy	SNIPER RIFLE	E
+dimwishlist:item=2884596447&perks=1482024992,1885400500,3418782618,3891536761	#notes	The Supremacy (Season 21)	SNIPER RIFLE	E
 dimwishlist:item=55393445&perks=1482024992,1885400500,4071163871,2048641572,1702976605	#notes	The Title (Season 26)	SMG	E
 dimwishlist:item=55393445&perks=1482024992,3230963543,776531651,2048641572,1702976605	#notes	The Title (Season 26)	SMG	E
 dimwishlist:item=4066778670&perks=1261178282,269888150,1749209109,2396489472	#notes	Thin Precipice	SWORD	E
@@ -507,8 +501,8 @@ dimwishlist:item=1645386487&perks=1482024992,3177308360,1556840489,4104185692	#n
 dimwishlist:item=2742838700&perks=1926090095,1431678320,3643424744,3038247973	#notes	True Prophecy (Season 10)	HAND CANNON	E
 dimwishlist:item=2850664015&perks=1482024992,3177308360,1168162263,3038247973	#notes	Trust	HAND CANNON	E
 dimwishlist:item=2850664015&perks=1482024992,3177308360,1168162263,4293542123	#notes	Trust	HAND CANNON	E
+dimwishlist:item=1392919471&perks=1482024992,106909392,247725512,3201496230	#notes	Trustee	SCOUT RIFLE	E
 dimwishlist:item=1392919471&perks=1482024992,106909392,247725512,4293542123	#notes	Trustee	SCOUT RIFLE	E
-dimwishlist:item=1392919471&perks=839105230,1087426260,247725512,3201496230	#notes	Trustee	SCOUT RIFLE	E
 dimwishlist:item=447296102&perks=981914802,3032599245,588594999,4071163871	#notes	Truthteller (Season 24)	BREACH GRENADE LAUNCHER	E
 dimwishlist:item=1874424704&perks=839105230,3177308360,968510818,1546637391	#notes	Twilight Oath	SNIPER RIFLE	E
 dimwishlist:item=3388655311&perks=1784898267,3827198035,2848615171,4293542123	#notes	Tyranny of Heaven	BOW	E
@@ -538,8 +532,8 @@ dimwishlist:item=3444688218&perks=1840239774,3142289711,4293542123,3038247973	#n
 dimwishlist:item=3444688218&perks=1840239774,3142289711,4293542123,3824105627	#notes	Vision of Confluence	SCOUT RIFLE	E
 dimwishlist:item=3920310144&perks=1482024992,2420895100,968510818,3038247973	#notes	Volta Bracket	SNIPER RIFLE	E
 dimwishlist:item=1762785662&perks=3809316345,3301904089,3987942396,3078487919	#notes	VS Chill Inhibitor	GRENADE LAUNCHER	E
-dimwishlist:item=93061497&perks=839105230,1483536627,3523296417,2396489472	#notes	VS Gravitic Arrest	FUSION RIFLE	E
-dimwishlist:item=4232480042&perks=839105230,1885400500,243981275,3966416502	#notes	VS Pyroelectric Propellant	AUTO RIFLE	E
+dimwishlist:item=93061497&perks=1482024992,1687452232,3523296417,2396489472	#notes	VS Gravitic Arrest	FUSION RIFLE	E
+dimwishlist:item=4232480042&perks=1482024992,1885400500,243981275,3966416502	#notes	VS Pyroelectric Propellant	AUTO RIFLE	E
 dimwishlist:item=1762785663&perks=3798852852,2822142346,3523296417,2048641572	#notes	VS Velocity Baton	BREACH GRENADE LAUNCHER	E
 dimwishlist:item=1762785663&perks=3798852852,2822142346,3523296417,243981275	#notes	VS Velocity Baton	BREACH GRENADE LAUNCHER	E
 dimwishlist:item=1622998472&perks=1482024992,106909392,1168162263,124408337	#notes	Vulpecula	HAND CANNON	E
@@ -595,7 +589,6 @@ dimwishlist:item=4221591387&perks=2244851822,3708227201	#notes	Abyssal Edge (dou
 dimwishlist:item=4221591387&perks=1749209109,3708227201	#notes	Abyssal Edge (double Origin Trait)	SWORD	E	(Weapon Traits only)
 dimwishlist:item=1471212226&perks=1523832109,3215448563	#notes	Acasia's Dejection	TRACE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1471212226&perks=1523832109,4293542123	#notes	Acasia's Dejection	TRACE RIFLE	E	(Weapon Traits only)
-dimwishlist:item=3621336854&perks=201365942,3824105627	#notes	Accrued Redemption	BOW	E	(Weapon Traits only)
 dimwishlist:item=3621336854&perks=201365942,3891536761	#notes	Accrued Redemption	BOW	E	(Weapon Traits only)
 dimwishlist:item=425681240&perks=2284787283,3078487919	#notes	Acosmic (Season 25)	GRENADE LAUNCHER	E	(Weapon Traits only)
 dimwishlist:item=3229982889&perks=692399809,2298656195	#notes	Adamantite	AUTO RIFLE	E	(Weapon Traits only)
@@ -628,8 +621,8 @@ dimwishlist:item=3649985571&perks=1354429876,555281244	#notes	Arcane Embrace (Fe
 dimwishlist:item=3649985571&perks=25606670,2173046394	#notes	Arcane Embrace (Festival of the Lost 2024)	SHOTGUN	E	(Weapon Traits only)
 dimwishlist:item=3649985571&perks=1631667848,3708227201	#notes	Arcane Embrace (Festival of the Lost 2024)	SHOTGUN	E	(Weapon Traits only)
 dimwishlist:item=963710795&perks=1523832109,2978966579	#notes	Aurvandil FR6	FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=1845978721&perks=1820235745,4293542123	#notes	Avalanche	MACHINE GUN	E	(Weapon Traits only)
-dimwishlist:item=1845978721&perks=3418782618,365154968	#notes	Avalanche	MACHINE GUN	E	(Weapon Traits only)
+dimwishlist:item=1845978721&perks=1820235745,4293542123	#notes	Avalanche (Season 25)	MACHINE GUN	E	(Weapon Traits only)
+dimwishlist:item=1845978721&perks=3418782618,365154968	#notes	Avalanche (Season 25)	MACHINE GUN	E	(Weapon Traits only)
 dimwishlist:item=3867373351&perks=1523832109,2594592626	#notes	Axial Lacuna	FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2573900604&perks=1631667848,2679249093	#notes	Basso Ostinato	SHOTGUN	E	(Weapon Traits only)
 dimwishlist:item=2573900604&perks=968510818,2360754333	#notes	Basso Ostinato	SHOTGUN	E	(Weapon Traits only)
@@ -663,7 +656,7 @@ dimwishlist:item=2481881293&perks=1556840489,1546637391	#notes	Cartesian Coordin
 dimwishlist:item=999767358&perks=1354429876,3078487919	#notes	Cataclysmic	LINEAR FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=501329015&perks=1015611457,3425386926	#notes	Chattering Bone (Season 21)	PULSE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=501329015&perks=1015611457,3891536761	#notes	Chattering Bone (Season 21)	PULSE RIFLE	E	(Weapon Traits only)
-dimwishlist:item=2598420927&perks=1820235745,3891536761	#notes	Chroma Rush	AUTO RIFLE	E	(Weapon Traits only)
+dimwishlist:item=2598420927&perks=1820235745,3891536761	#notes	Chroma Rush (Season 25)	AUTO RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1886840007&perks=3300816228,2048641572	#notes	Chronophage	TRACE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1337707096&perks=1168162263,3523296417	#notes	Chrysura Melo	AUTO RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2187717691&perks=968510818,3523296417	#notes	Circular Logic	MACHINE GUN	E	(Weapon Traits only)
@@ -684,11 +677,8 @@ dimwishlist:item=2126178511&perks=3828510309,2173046394	#notes	Corrasion	PULSE R
 dimwishlist:item=3654744298&perks=2048641572,4049631843	#notes	Corrective Measure (Season 26)	MACHINE GUN	E	(Weapon Traits only)
 dimwishlist:item=3654744298&perks=3201496230,4049631843	#notes	Corrective Measure (Season 26)	MACHINE GUN	E	(Weapon Traits only)
 dimwishlist:item=2714022207&perks=2866798147,2213355989	#notes	Corsair's Wrath	LINEAR FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=445197843&perks=1523832109,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=445197843&perks=1523832109,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
-dimwishlist:item=445197843&perks=2978966579,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=445197843&perks=2978966579,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
-dimwishlist:item=445197843&perks=3418782618,3038247973	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=445197843&perks=3418782618,3640170453	#notes	Critical Anomaly	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2782325302&perks=1749209109,3708227201	#notes	Crown-Splitter (Season 14)	SWORD	E	(Weapon Traits only)
 dimwishlist:item=2782325302&perks=1749209109,3913600130	#notes	Crown-Splitter (Season 14)	SWORD	E	(Weapon Traits only)
@@ -741,9 +731,9 @@ dimwishlist:item=4277547616&perks=2010801679,2458213969	#notes	Every Waking Mome
 dimwishlist:item=4096943616&perks=3300816228,4104185692	#notes	Explosive Personality	BREACH GRENADE LAUNCHER	E	(Weapon Traits only)
 dimwishlist:item=2823644677&perks=1955165503,124408337	#notes	Exuviae	HAND CANNON	E	(Weapon Traits only)
 dimwishlist:item=235827225&perks=247725512,124408337	#notes	Eyasluna	HAND CANNON	E	(Weapon Traits only)
-dimwishlist:item=727781522&perks=1820235745,3978468247	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=727781522&perks=3643424744,1427256713	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=727781522&perks=3400784728,1134488199	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=727781522&perks=3643424744,1427256713	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=727781522&perks=1820235745,3978468247	#notes	Eyes Unveiled	LINEAR FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=4176873718&perks=1955165503,124408337	#notes	Fair Judgment	AUTO RIFLE	E	(Weapon Traits only)
 dimwishlist:item=4195186942&perks=3300816228,1439600632	#notes	Faith-Keeper	ROCKET LAUNCHER	E	(Weapon Traits only)
 dimwishlist:item=4195186942&perks=3300816228,3194351027	#notes	Faith-Keeper	ROCKET LAUNCHER	E	(Weapon Traits only)
@@ -763,9 +753,9 @@ dimwishlist:item=3197270240&perks=3300816228,4104185692	#notes	Found Verdict (Se
 dimwishlist:item=3184681056&perks=1556840489,2360754333	#notes	Fractethyst	SHOTGUN	E	(Weapon Traits only)
 dimwishlist:item=3473290087&perks=3300816228,2551157718	#notes	Frozen Orbit	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=3341893443&perks=1820235745,4104185692	#notes	Funnelweb	SMG	E	(Weapon Traits only)
-dimwishlist:item=1183116657&perks=968510818,1134488199	#notes	Glacioclasm	FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=1183116657&perks=968510818,1427256713	#notes	Glacioclasm	FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=1183116657&perks=968510818,2594592626	#notes	Glacioclasm	FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=1183116657&perks=968510818,1134488199	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=1183116657&perks=968510818,1427256713	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=1183116657&perks=968510818,2594592626	#notes	Glacioclasm (Season 25)	FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=222606050&perks=3619207468,831391274	#notes	Glissando-47	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=821154603&perks=1820235745,3523296417	#notes	Gnawing Hunger	AUTO RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1757202961&perks=1966281507,1782407750	#notes	Greasy Luck	GLAIVE	E	(Weapon Traits only)
@@ -773,9 +763,8 @@ dimwishlist:item=1757202961&perks=3800201097,2224838837	#notes	Greasy Luck	GLAIV
 dimwishlist:item=2934305134&perks=1966281507,1782407750	#notes	Greasy Luck (Season 26)	GLAIVE	E	(Weapon Traits only)
 dimwishlist:item=2934305134&perks=1966281507,4293542123	#notes	Greasy Luck (Season 26)	GLAIVE	E	(Weapon Traits only)
 dimwishlist:item=2934305134&perks=1523832109,2224838837	#notes	Greasy Luck (Season 26)	GLAIVE	P	(Weapon Traits only)
-dimwishlist:item=3433930495&perks=3523296417,2048641572	#notes	Gridskipper	PULSE RIFLE	E	(Weapon Traits only)
-dimwishlist:item=3433930495&perks=3523296417,4104185692	#notes	Gridskipper	PULSE RIFLE	E	(Weapon Traits only)
-dimwishlist:item=3433930495&perks=776531651,2048641572	#notes	Gridskipper	PULSE RIFLE	E	(Weapon Traits only)
+dimwishlist:item=3433930495&perks=3523296417,2048641572	#notes	Gridskipper (Season 25)	PULSE RIFLE	E	(Weapon Traits only)
+dimwishlist:item=3433930495&perks=776531651,2048641572	#notes	Gridskipper (Season 25)	PULSE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2870169846&perks=1168162263,3523296417	#notes	Hailing Confusion	PULSE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=3257091166&perks=1749209109,2077819806	#notes	Half-Truths	SWORD	E	(Weapon Traits only)
 dimwishlist:item=3998080529&perks=3523296417,4293542123	#notes	Heliocentric QSC	SIDEARM	E	(Weapon Traits only)
@@ -1026,8 +1015,7 @@ dimwishlist:item=3236112986&perks=247725512,3891536761	#notes	Spare Rations	HAND
 dimwishlist:item=412251536&perks=968510818,4049631843	#notes	Speleologist	MACHINE GUN	E	(Weapon Traits only)
 dimwishlist:item=4019668921&perks=1168162263,3038247973	#notes	Staccato-46	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=4019668921&perks=3700496672,3038247973	#notes	Staccato-46	SCOUT RIFLE	E	(Weapon Traits only)
-dimwishlist:item=1123433952&perks=1955165503,124408337	#notes	Stay Frosty	PULSE RIFLE	E	(Weapon Traits only)
-dimwishlist:item=1123433952&perks=3828510309,124408337	#notes	Stay Frosty	PULSE RIFLE	E	(Weapon Traits only)
+dimwishlist:item=1123433952&perks=1955165503,124408337	#notes	Stay Frosty (Season 25)	PULSE RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2272470786&perks=3436462433,3592538738	#notes	Stochastic Variable	SMG	E	(Weapon Traits only)
 dimwishlist:item=3652506829&perks=2284787283,4104185692	#notes	Stormchaser	LINEAR FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1447836603&perks=4071163871,2173046394	#notes	Subjunctive (Season 23)	SMG	E	(Weapon Traits only)
@@ -1047,8 +1035,8 @@ dimwishlist:item=2595813005&perks=3828510309,831391274	#notes	Taraxippos	SCOUT R
 dimwishlist:item=2595813005&perks=3828510309,960997401	#notes	Taraxippos	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=2218569744&perks=247725512,2173046394	#notes	Tarnished Mettle	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1366394399&perks=3400784728,3038247973	#notes	Tears of Contrition	SCOUT RIFLE	E	(Weapon Traits only)
-dimwishlist:item=3591141932&perks=1523832109,2594592626	#notes	Techeun Force	FUSION RIFLE	E	(Weapon Traits only)
-dimwishlist:item=3591141932&perks=968510818,2594592626	#notes	Techeun Force	FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=3591141932&perks=1523832109,2594592626	#notes	Techeun Force (Season 21)	FUSION RIFLE	E	(Weapon Traits only)
+dimwishlist:item=3591141932&perks=968510818,2594592626	#notes	Techeun Force (Season 21)	FUSION RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1587953057&perks=1749209109,2396489472	#notes	Temptation's Hook	SWORD	E	(Weapon Traits only)
 dimwishlist:item=2210806903&perks=1523832109,3218042543	#notes	Terminus Horizon (Season 26, Adept)	MACHINE GUN	E	(Weapon Traits only)
 dimwishlist:item=2210806903&perks=1523832109,365154968	#notes	Terminus Horizon (Season 26, Adept)	MACHINE GUN	E	(Weapon Traits only)
@@ -1073,7 +1061,7 @@ dimwishlist:item=2889501828&perks=2077819806,3650930298	#notes	The Slammer	SWORD
 dimwishlist:item=2889501828&perks=2396489472,3650930298	#notes	The Slammer	SWORD	E	(Weapon Traits only)
 dimwishlist:item=1354727549&perks=1749209109,3078487919	#notes	The Slammer (Adept)	SWORD	E	(Weapon Traits only)
 dimwishlist:item=1354727549&perks=2077819806,3650930298	#notes	The Slammer (Adept)	SWORD	E	(Weapon Traits only)
-dimwishlist:item=2884596447&perks=3418782618,3891536761	#notes	The Supremacy	SNIPER RIFLE	E	(Weapon Traits only)
+dimwishlist:item=2884596447&perks=3418782618,3891536761	#notes	The Supremacy (Season 21)	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=55393445&perks=4071163871,2048641572	#notes	The Title (Season 26)	SMG	E	(Weapon Traits only)
 dimwishlist:item=55393445&perks=776531651,2048641572	#notes	The Title (Season 26)	SMG	E	(Weapon Traits only)
 dimwishlist:item=4066778670&perks=1749209109,2396489472	#notes	Thin Precipice	SWORD	E	(Weapon Traits only)
@@ -1084,8 +1072,8 @@ dimwishlist:item=1645386487&perks=1556840489,4104185692	#notes	Tranquility	SNIPE
 dimwishlist:item=2742838700&perks=3643424744,3038247973	#notes	True Prophecy (Season 10)	HAND CANNON	E	(Weapon Traits only)
 dimwishlist:item=2850664015&perks=1168162263,3038247973	#notes	Trust	HAND CANNON	E	(Weapon Traits only)
 dimwishlist:item=2850664015&perks=1168162263,4293542123	#notes	Trust	HAND CANNON	E	(Weapon Traits only)
-dimwishlist:item=1392919471&perks=247725512,4293542123	#notes	Trustee	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=1392919471&perks=247725512,3201496230	#notes	Trustee	SCOUT RIFLE	E	(Weapon Traits only)
+dimwishlist:item=1392919471&perks=247725512,4293542123	#notes	Trustee	SCOUT RIFLE	E	(Weapon Traits only)
 dimwishlist:item=447296102&perks=588594999,4071163871	#notes	Truthteller (Season 24)	BREACH GRENADE LAUNCHER	E	(Weapon Traits only)
 dimwishlist:item=1874424704&perks=968510818,1546637391	#notes	Twilight Oath	SNIPER RIFLE	E	(Weapon Traits only)
 dimwishlist:item=3388655311&perks=2848615171,4293542123	#notes	Tyranny of Heaven	BOW	E	(Weapon Traits only)
