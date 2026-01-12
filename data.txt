@@ -1,4 +1,4 @@
-title:OoLee's whishlist (PvE (E) & PvP (P))
+title:OoLee's whishlist (PvE (E) & PvP (P)) 
 dimwishlist:item=1769847435&perks=1482024992,106909392,3643424744,3038247973	#notes	A Distant Pull	SNIPER RIFLE	E	(full roll)
 dimwishlist:item=3325778512&perks=1482024992,2420895100,3300816228,4104185692	#notes	A Fine Memorial	MACHINE GUN	E	(full roll)
 dimwishlist:item=3615748501&perks=4196967425,2955427634,1134488199,2551157718,3454102905	#notes	A Good Shout	BOW	E	(full roll)
